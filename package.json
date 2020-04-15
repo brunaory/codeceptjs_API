@@ -1,0 +1,29 @@
+{
+  "name": "Marvel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "characters": "npx codeceptjs run tests/characters_test.js --steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-oauth-client": "^1.2.3",
+    "axios-token-interceptor": "^0.2.0",
+    "chai": "^4.2.0",
+    "chai-arrays": "^2.0.0",
+    "client-oauth2": "^4.2.5",
+    "codeceptjs": "^2.6.0",
+    "codeceptjs-axios": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "i": "^0.3.6",
+    "jsonschema": "^1.2.6",
+    "md": "^0.6.0",
+    "schema": "^0.2.1",
+    "validator": "^13.0.0",
+    "webdriverio": "^6.0.13"
+  }
+}
