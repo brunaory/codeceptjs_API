@@ -19,7 +19,7 @@
     "codeceptjs": "^2.6.0",
     "codeceptjs-axios": "^1.0.1",
     "dotenv": "^8.2.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "jsonschema": "^1.2.6",
     "md": "^0.6.0",
     "schema": "^0.2.1",
