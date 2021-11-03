@@ -23,7 +23,7 @@
     "jsonschema": "^1.2.6",
     "md": "^0.6.0",
     "schema": "^0.2.1",
-    "validator": "^13.0.0",
+    "validator": "^13.7.0",
     "webdriverio": "^6.0.13"
   }
 }
